@@ -15,7 +15,6 @@
     <img align="left" alt="Nitin Ranjan | Gmail" width="26px" src="https://github.com/NitinR2510/NitinR2510/blob/master/img/gmail.png?raw=true" />
   </a>
 
-### Hello world!&nbsp;<img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/earth.gif?raw=true" width="50px"> 
 
 <p>
   <em>
